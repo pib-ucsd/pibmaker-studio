@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"scr_GenerateEnemy","path":"scripts/scr_GenerateEnemy/scr_GenerateEnemy.yy",},"order":3,},
     {"id":{"name":"obj_BoxesOfDoom","path":"objects/obj_BoxesOfDoom/obj_BoxesOfDoom.yy",},"order":2,},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},"order":2,},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},

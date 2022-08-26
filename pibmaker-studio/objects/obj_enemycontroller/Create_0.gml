@@ -5,3 +5,4 @@ alarm[0] = 1;
 enemiesList = [obj_BoxesOfDoom, ];
 numEnemyTypes = array_length(enemiesList);
 //enemies = [];
+spriteHeight = 64;
