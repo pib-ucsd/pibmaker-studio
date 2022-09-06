@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 // the speed the enemy moves at
-hspeed = -random_range(6, 15);
+//hspeed = -random_range(6, 15);

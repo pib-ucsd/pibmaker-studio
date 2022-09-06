@@ -1,0 +1,1 @@
+draw_text(24, window_get_height() - 24, GM_version);

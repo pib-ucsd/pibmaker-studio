@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "map",
+    "path": "folders/Objects/map.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_Wall",
